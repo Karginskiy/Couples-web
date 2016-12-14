@@ -48,3 +48,5 @@ Temporary Items
 *.xml
 Couples-web.iml
 *.jar
+*.class
+target/couples-web-1.0-SNAPSHOT/META-INF/MANIFEST.MF
