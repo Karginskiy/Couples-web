@@ -50,3 +50,5 @@ Couples-web.iml
 *.jar
 *.class
 target/couples-web-1.0-SNAPSHOT/META-INF/MANIFEST.MF
+target/maven-archiver/pom.properties
+*.war
